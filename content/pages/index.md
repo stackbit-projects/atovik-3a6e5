@@ -19,7 +19,7 @@ sections:
         new_window: false
         no_follow: false
         type: action
-    align: left
+    align: right
     image: images/gordon-norman.jpg
     image_alt: Hero placeholder image
     image_position: right
