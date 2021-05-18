@@ -16,7 +16,7 @@ sections:
       - label: lorem-ipsum
         url: '#'
         style: secondary
-        new_window: true
+        new_window: false
         no_follow: false
         type: action
     align: left
